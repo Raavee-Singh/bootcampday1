@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int num;
+    int num=0;
     while(num<5){
         printf("I am smart. You are dumb.\n");
         num=num+1;
