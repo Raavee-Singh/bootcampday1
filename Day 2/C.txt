@@ -1,2 +1,5 @@
 I live in Mysore!
 I love Mysore!
+I live in Mysore!
+I love Mysore!
+I enjoy coding in C!
