@@ -9,7 +9,6 @@ int main() {
     }
     fprintf(fp, "I live in Mysore!\n");
     fprintf(fp, "I love Mysore!\n");
-
     fclose(fp);
 
     return 0;
