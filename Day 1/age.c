@@ -9,6 +9,6 @@ else if(age>=8 && age<20)
 else if(age>20 && age<30)
     printf("Uncle/aunty start phase");
 else if(age>30 && age<50)
-    printf("Grandpaa/Granny level unclocked ");
+    printf("Grandpaa/Granny level unlocked ");
     return 0;
 }
